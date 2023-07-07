@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1058309260878",
+    "project_id": "reservim-ad628",
+    "storage_bucket": "reservim-ad628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058309260878:android:86c8973a2993a9ca04251f",
+        "android_client_info": {
+          "package_name": "com.reservim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058309260878-2090l5gsc4tiegvpubhbcc7kjo01ul7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reservim",
+            "certificate_hash": "2a3e2a79fb8f0242b1d3b2ab0f054b1bd97d0cbf"
+          }
+        },
+        {
+          "client_id": "1058309260878-jvggs2e9avi78djknumkn6lh802snvve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reservim",
+            "certificate_hash": "f33c40ea8cb109458a36549de634913acdef6382"
+          }
+        },
+        {
+          "client_id": "1058309260878-phc9v15g8d10qdli3j91h6184q17fttb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reservim",
+            "certificate_hash": "ea4d65d48bd7875402f3adc030d86007ba2984f6"
+          }
+        },
+        {
+          "client_id": "1058309260878-i71tbar7ak3u8nvknerjm2qpklv48gts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnrznQiSU-QwycAomVWj-HsZiNWdL6Wik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058309260878-i71tbar7ak3u8nvknerjm2qpklv48gts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
